@@ -1,0 +1,5 @@
+{
+  "name": "AI Expense Monitor",
+  "description": "A smart expense tracking application that uses AI to provide financial advice based on your spending habits. Add your expenses, visualize them by category, and get personalized insights to improve your financial health.",
+  "requestFramePermissions": []
+}
